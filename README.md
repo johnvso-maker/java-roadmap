@@ -1,1 +1,25 @@
-aqui eu posto minhas evoluções fazendo codigos de certos tipos de atividades pedidas pelos professores dos cursos e tarefas que eu peço ao chatgpt
+# Tarefa de Manipulação de Strings e Vetores em Java
+
+Projeto desenvolvido durante meus estudos de Java.
+
+## Funcionalidades
+
+* Cadastro de nomes em um vetor
+* Exibição dos nomes cadastrados
+* Busca pelo maior nome
+* Contagem de vogais
+* Contagem de nomes iniciados com a letra A
+* Inversão do maior nome encontrado
+
+## Conceitos praticados
+
+* Vetores
+* Strings
+* charAt()
+* toCharArray()
+* Estruturas de repetição
+* Condicionais
+* Métodos da classe String
+
+Projeto criado com fins de aprendizado e prática de lógica de programação.
+
