@@ -79,6 +79,7 @@ public class vetores2 {
             }
         }
         System.out.println("Aluno com o maior nome: " + maiornome);
+        sc.close();
 
 
 

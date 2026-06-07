@@ -54,6 +54,7 @@ public class tarefachat {
         }
          String invertido = new String(nomemaior);
          System.out.println("Nome mais longo invertido: " + invertido);
+         sc.close();
 
     }
 }
