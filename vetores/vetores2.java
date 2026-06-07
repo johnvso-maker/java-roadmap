@@ -1,6 +1,8 @@
 import java.util.Arrays;
 import java.util.Scanner;
 
+//programa que recebe nomes de alunos, notas, verifica se foram aprovados, maior e menor nota
+
 public class vetores2 {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
@@ -79,16 +81,7 @@ public class vetores2 {
             }
         }
         System.out.println("Aluno com o maior nome: " + maiornome);
-
-
-
-
     }
-
-
-
-
-
     public static void exibirnotas(double[] notas){
         for (int i = 0; i < notas.length; i++){
             System.out.println("Alunos " + " : " + notas[i]);
