@@ -81,14 +81,10 @@ public class vetores2 {
             }
         }
         System.out.println("Aluno com o maior nome: " + maiornome);
-<<<<<<< HEAD
+
         sc.close();
 
 
-
-
-=======
->>>>>>> e6b66d6f612a2de982ec44d85adfa90436d2979b
     }
     public static void exibirnotas(double[] notas){
         for (int i = 0; i < notas.length; i++){
