@@ -1,4 +1,4 @@
-import carro.Carros;
+package carro;
 
 import java.util.Scanner;
 
