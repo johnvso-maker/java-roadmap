@@ -12,8 +12,6 @@ public class tarefasmatrizes {
                     }
                     System.out.println();
                 }
-
-
         }
     }
 }
