@@ -28,7 +28,6 @@ public class projetoyoutube {
         vis[1].avaliar(89.0f);
         System.out.println(vis[1].toString());
 
-
         System.out.println();
 
     }

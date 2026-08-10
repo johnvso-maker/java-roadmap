@@ -53,7 +53,6 @@ public class LUTA {
                     this.desafiado.ganharLuta();
                     this.desafiante.perderLuta();
                     this.desafiado.status();
-
                     break;
                 case 2: //Desafiante vence
                     System.out.println("Vitoria !!! " + this.desafiante.getNome() + " Agrega mais uma vitoria em sua carreira!!!");
